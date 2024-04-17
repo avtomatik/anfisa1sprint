@@ -161,3 +161,9 @@ precode/
 user/
 
 notion
+
+# Mac
+.DS_Store
+
+# VS Code Config
+launch.json
